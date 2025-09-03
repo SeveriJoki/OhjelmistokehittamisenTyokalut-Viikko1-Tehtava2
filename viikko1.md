@@ -24,6 +24,7 @@ if(lecture.type=="math"){
 ---
 
 ## Miksi centria?
+https://net.centria.fi/wp-content/uploads/2024/05/DIG0684-e1716886611452-920x572.jpg
 Minulla oli useita syitä miksi valitsin centrian opintojeni jatkamista varten. Pari esimerkkiä tässä listalla.
 - Vanhat kaverit centrialla
 - Koti kaupunki
