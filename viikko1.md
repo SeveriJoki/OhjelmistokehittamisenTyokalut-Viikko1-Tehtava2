@@ -1,7 +1,7 @@
-### Tehtävä3
+# Tehtävä3
 ## Esittely
 Nimeni on **Severi Joki** Kokkolasta ja opiskelen nyt *centriassa*. Opiskelin vuosi sitten ammattikoulussa datanomiksi ja olin puolivuotta armeijassa ennen centriaan pääsyä. Halusaisin päästä oppimaan ohjelmoinnista web developmentista ja kaikesta IT liittyvästä. Tein tässä aikaisemmin uuden github käyttäjän centrian tunnuksilla ja linkki käyttäjään on tässä: https://github.com/SeveriJoki
-# Lempi harrastuksia
+### Lempi harrastuksia
 1. Ohjelmointi
 2. Luonto
 3. Videopelit
